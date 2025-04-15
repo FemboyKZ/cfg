@@ -1,0 +1,635 @@
+{
+  "bkz_goldbhop": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3214939683"
+  },
+  "bkz_impulse": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3257374814"
+  },
+  "bkz_iota": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3240650433"
+  },
+  "kz_11342": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3426289828"
+  },
+  "kz_11735": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3422462949"
+  },
+  "kz_16pillars": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3332836301"
+  },
+  "kz_adv_cursedjourney": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3451061007"
+  },
+  "kz_alfama": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3237967740"
+  },
+  "kz_apasanka": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3346109633"
+  },
+  "kz_beginnerblock": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3445887668"
+  },
+  "kz_bhop_lego": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3231517132"
+  },
+  "kz_butterfly": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3248925340"
+  },
+  "kz_cg_lighthops": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3211915934"
+  },
+  "kz_checkmate": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3070194623"
+  },
+  "kz_colors": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3160120310"
+  },
+  "kz_combobreaker": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3329139574"
+  },
+  "kz_communityjump3": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3202427394"
+  },
+  "kz_concord": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3287874815"
+  },
+  "kz_consequence": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3250581189"
+  },
+  "kz_dam": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3280262338"
+  },
+  "kz_dejavu": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3448441395"
+  },
+  "kz_ehcivec_final": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3082213334"
+  },
+  "kz_faded": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3366047597"
+  },
+  "kz_fastcombomap": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3427480612"
+  },
+  "kz_ghs": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3278824777"
+  },
+  "kz_gigablock_cs2": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3451243196"
+  },
+  "kz_grassworld": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3099807884"
+  },
+  "kz_grotto": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3121168339"
+  },
+  "kz_haki_v2": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3280439252"
+  },
+  "kz_igneous": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3102712799"
+  },
+  "kz_illusion_gfix": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3445782360"
+  },
+  "kz_key": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3344417199"
+  },
+  "kz_kings_ambition": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3447277011"
+  },
+  "kz_kiwimirific": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3422257088"
+  },
+  "kz_kiwionerous": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3430337743"
+  },
+  "kz_kzro_syotiles": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3329112841"
+  },
+  "kz_labour": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3164403123"
+  },
+  "kz_ladderdespair": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3234811937"
+  },
+  "kz_ladderhell": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3236545332"
+  },
+  "kz_leto_v2": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3070830826"
+  },
+  "kz_leviathan": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3374560468"
+  },
+  "kz_lmn": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3355230567"
+  },
+  "kz_lumen": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3429375699"
+  },
+  "kz_lust": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3218634538"
+  },
+  "kz_moonlight": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3287653784"
+  },
+  "kz_moorerutan": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3348711619"
+  },
+  "kz_neighbourhood": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3075731680"
+  },
+  "kz_niche": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3160291769"
+  },
+  "kz_obsidian": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3332796414"
+  },
+  "kz_paradise": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3276365521"
+  },
+  "kz_phamous": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3104579274"
+  },
+  "kz_rc_femboy": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3241944666"
+  },
+  "kz_rc_stonehenge": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3072219045"
+  },
+  "kz_rc_twotowers": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3083509404"
+  },
+  "kz_rennzoku": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3323894676"
+  },
+  "kz_retreat": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3421030265"
+  },
+  "kz_rome": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3294243116"
+  },
+  "kz_royalcapital": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3366541429"
+  },
+  "kz_sanctuary": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3350663039"
+  },
+  "kz_serfdom": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3162361624"
+  },
+  "kz_skytower": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3276311176"
+  },
+  "kz_sonder": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3276936665"
+  },
+  "kz_spire": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3352534882"
+  },
+  "kz_summercliff2": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3353950265"
+  },
+  "kz_variety": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3250132197"
+  },
+  "kz_victoria": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3086304337"
+  },
+  "kz_xmas2023": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3124558836"
+  },
+  "vnl_lea": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3427313076"
+  },
+  "vnl_rc_genesis": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3070834871"
+  },
+  "ar_baggage": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "ar_pool_day": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "ar_shoots": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "cs_agency": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3339983232"
+  },
+  "cs_italy": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "cs_office": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_ancient": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_anubis": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_assembly": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3071005299"
+  },
+  "de_basalt": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_cache": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3437809122"
+  },
+  "de_dust2": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_edin": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_inferno": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_memento": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3165559377"
+  },
+  "de_mills": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3152430710"
+  },
+  "de_mirage": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_nuke": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_overpass": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_palais": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_thera": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3121217565"
+  },
+  "de_train": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_vertigo": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_whistle": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  }
+}
