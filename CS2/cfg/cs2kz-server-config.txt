@@ -1,0 +1,54 @@
+"ServerCfg"
+{
+	// Default mode for players.
+	"defaultMode"				"Vanilla"
+	
+	// Default style for players.
+	"defaultStyles"				""
+	
+	// How long should a map run for before it must be reloaded in minutes (maximum 24 hours)
+	"defaultTimeLimit"			"600.0"
+	
+	// Default language to be used if client does not set a language/language is not supported
+	"defaultLanguage"			"en"
+	
+	// Interval between tips.
+	"tipInterval"				"75"
+	
+	// Minimum jumpstat tier for broadcasting.
+	"defaultJSBroadcastMinTier"	"4"
+	
+	// Minimum jumpstat tier for sound effect.
+	"defaultJSSoundMinTier"		"4"
+	
+	// Whether jumpstats should be enabled by default.
+	"defaultShowJS"				"true"
+	
+	// Enable this to automatically record a one minute long demo of players when someone hits a wrecker jumpstat.
+	"autoDemoRecording"			"false"
+	
+	// Default chat prefix.
+	"chatPrefix"				"{orchid}FKZ {grey}|{default}"
+	
+	// Whether we override chat processing or not.
+	"overridePlayerChat"		"false"
+	
+	// Local database configurations.
+	"db"
+	{
+		"driver"	"mysql"
+		"database"	""
+		
+		// MySQL connections only, required
+		"host"		""
+		"user"		""
+		"pass"		""
+		
+		// MySQL connections only, optional
+		//"timeout"			"60"
+		"port"			"3306"
+	}
+
+	"apiUrl" "https://api.cs2kz.org"
+	"apiKey" ""
+}
