@@ -1,0 +1,111 @@
+{
+  "#css/owner": {
+    "flags": [
+      "@css/reservation",
+      "@css/generic",
+      "@css/kick",
+      "@css/permban",
+      "@css/ban",
+      "@css/unban",
+      "@css/vip",
+      "@css/slay",
+      "@css/showip",
+      "@css/changemap",
+      "@css/cvar",
+      "@css/config",
+      "@css/chat",
+      "@css/vote",
+      "@css/password",
+      "@css/rcon",
+      "@css/cheats",
+      "@css/root"
+    ],
+    "immunity": 100
+  },
+  "#css/admin": {
+    "flags": [
+      "@css/reservation",
+      "@css/generic",
+      "@css/kick",
+      "@css/permban",
+      "@css/ban",
+      "@css/unban",
+      "@css/vip",
+      "@css/slay",
+      "@css/showip",
+      "@css/changemap",
+      "@css/cvar",
+      "@css/config",
+      "@css/chat",
+      "@css/vote",
+      "@css/password",
+      "@css/rcon",
+      "@css/cheats",
+      "@css/root"
+    ],
+    "immunity": 90
+  },
+  "#css/dev": {
+    "flags": [
+      "@css/reservation",
+      "@css/generic",
+      "@css/kick",
+      "@css/permban",
+      "@css/ban",
+      "@css/unban",
+      "@css/vip",
+      "@css/slay",
+      "@css/showip",
+      "@css/changemap",
+      "@css/cvar",
+      "@css/config",
+      "@css/chat",
+      "@css/vote",
+      "@css/password",
+      "@css/rcon",
+      "@css/cheats",
+      "@css/root"
+    ],
+    "immunity": 91
+  },
+  "#css/mod": {
+    "flags": [
+      "@css/reservation",
+      "@css/generic",
+      "@css/kick",
+      "@css/permban",
+      "@css/ban",
+      "@css/unban",
+      "@css/vip",
+      "@css/slay",
+      "@css/changemap",
+      "@css/chat",
+      "@css/vote"
+    ],
+    "immunity": 80
+  },
+  "#css/contributor": {
+    "flags": ["@css/reservation", "@css/vip", "@css/changemap"],
+    "immunity": 70
+  },
+  "#css/vip+": {
+    "flags": ["@css/reservation", "@css/vip", "@css/changemap"],
+    "immunity": 60
+  },
+  "#css/vip": {
+    "flags": ["@css/reservation", "@css/vip", "@css/changemap"],
+    "immunity": 50
+  },
+  "#css/gmc": {
+    "flags": ["@css/reservation", "@css/changemap"],
+    "immunity": 41
+  },
+  "#css/vnl": {
+    "flags": ["@css/reservation", "@css/changemap"],
+    "immunity": 40
+  },
+  "#css/og": {
+    "flags": ["@css/reservation", "@css/changemap"],
+    "immunity": 30
+  }
+}

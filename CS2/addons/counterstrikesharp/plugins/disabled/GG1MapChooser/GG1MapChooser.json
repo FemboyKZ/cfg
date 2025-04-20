@@ -1,0 +1,60 @@
+{
+  "VoteSettings": {
+    "RememberPlayedMaps": 0,
+    "MapsInVote": 5,
+    "VotesToWin": 0.4,
+    "AllowNominate": true,
+    "NominationsWASDMenu": false,
+    "EndMapVoteWASDMenu": false,
+    "VotingTime": 25,
+    "ExtendMapInVote": false,
+    "ExtendMapTimeMinutes": 10,
+    "ChangeMapAfterVote": true
+  },
+  "RTVSettings": {
+    "AllowRTV": true,
+    "RTVDelayFromStart": 0,
+    "IntervalBetweenRTV": 0,
+    "NoRTVafterRoundsPlayed": 0
+  },
+  "WinDrawSettings": {
+    "VoteDependsOnRoundWins": false,
+    "TriggerRoundsBeforeEnd": 1,
+    "TriggerRoundsBeforeEndVoteAtRoundStart": true,
+    "TriggerVoteAtRoundStartSecondsFromStart": 0,
+    "ChangeMapAfterWinDraw": false
+  },
+  "TimeLimitSettings": {
+    "VoteDependsOnTimeLimit": false,
+    "TriggerSecondsBeforeEnd": 35,
+    "ChangeMapAfterTimeLimit": false,
+    "VoteNextRoundStartAfterTrigger": false
+  },
+  "DiscordSettings": {
+    "DiscordWebhook": "",
+    "DiscordMessageMapStart": true,
+    "DiscordMessageAfterVote": false,
+    "PictureExtension": "jpg"
+  },
+  "MenuSettings": {
+    "SoundInMenu": false,
+    "FreezePlayerInMenu": false,
+    "FreezeAdminInMenu": false,
+    "ScrollUp": "W",
+    "ScrollDown": "S",
+    "Choose": "E",
+    "Back": "A",
+    "Exit": "R"
+  },
+  "OtherSettings": {
+    "PrintPlayersChoiceInChat": true,
+    "PrintNextMapForAll": false,
+    "DelayBeforeChangeSeconds": 0,
+    "VoteStartSound": "",
+    "RandomMapOnStart": false,
+    "RandomMapOnStartDelay": 40,
+    "LastDisconnectedChangeMap": false,
+    "WorkshopMapProblemCheck": true
+  },
+  "ConfigVersion": 1
+}

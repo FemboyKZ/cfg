@@ -1,0 +1,53 @@
+{
+  "Prefix": "{red}[{orange}T{yellow}r{green}a{lightblue}i{darkblue}l{purple}s{red}]",
+  "Permission": "@css/reservation",
+  "MenuCommands": "trails,trail",
+  "MenuType": "chat",
+  "ChatMessages": true,
+  "TicksForUpdate": 1,
+  "Trails": {
+    "1": {
+      "Name": "Rainbow Trail",
+      "File": "",
+      "Color": "rainbow",
+      "Width": 1,
+      "Lifetime": 1
+    },
+    "2": {
+      "Name": "Particle Trail",
+      "File": "particles/ambient_fx/ambient_sparks_glow.vpcf",
+      "Color": "rainbow",
+      "Width": 1,
+      "Lifetime": 1
+    },
+    "3": {
+      "Name": "Red Trail",
+      "File": "",
+      "Color": "255 0 0",
+      "Width": 2,
+      "Lifetime": 2
+    },
+    "4": {
+      "Name": "Pink Trail",
+      "File": "",
+      "Color": "255 0 255",
+      "Width": 2,
+      "Lifetime": 2
+    },
+    "5": {
+      "Name": "Green Trail",
+      "File": "",
+      "Color": "0 255 0",
+      "Width": 2,
+      "Lifetime": 2
+    },
+    "6": {
+      "Name": "Blue Trail",
+      "File": "",
+      "Color": "0 0 255",
+      "Width": 2,
+      "Lifetime": 2
+    }
+  },
+  "ConfigVersion": 1
+}

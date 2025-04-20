@@ -1,0 +1,152 @@
+{
+  "Skybox": {
+    "cs_italy_s2_skybox_2": {
+      "name": "cs_italy_s2_skybox_2",
+      "material": "materials/skybox/cs_italy_s2_skybox_2.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "cs_italy_s2_skybox_2_fog": {
+      "name": "cs_italy_s2_skybox_2_fog",
+      "material": "materials/skybox/cs_italy_s2_skybox_2_fog.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "cs_italy_s2_skybox_2_lightning": {
+      "name": "cs_italy_s2_skybox_2_lightning",
+      "material": "materials/skybox/cs_italy_s2_skybox_2_lighting.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "cs_office_45_0": {
+      "name": "cs_office_45_0",
+      "material": "materials/skybox/cs_office_45_0.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_ar_baggage_01": {
+      "name": "sky_ar_baggage_01",
+      "material": "materials/skybox/sky_ar_baggage_01.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_black": {
+      "name": "sky_black",
+      "material": "materials/skybox/sky_black.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_csgo_cloudy01": {
+      "name": "sky_csgo_cloudy01",
+      "material": "materials/skybox/sky_csgo_cloudy01.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_de_annubis": {
+      "name": "sky_de_annubis",
+      "material": "materials/skybox/sky_de_annubis.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_de_dust2": {
+      "name": "sky_de_dust2",
+      "material": "materials/skybox/sky_de_dust2.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_de_mirage": {
+      "name": "sky_de_mirage",
+      "material": "materials/skybox/sky_de_mirage.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_de_nuke": {
+      "name": "sky_de_nuke",
+      "material": "materials/skybox/sky_de_nuke.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_de_overpass_01": {
+      "name": "sky_de_overpass_01",
+      "material": "materials/skybox/sky_de_overpass_01.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_de_train03": {
+      "name": "sky_de_train03",
+      "material": "materials/skybox/sky_de_train03.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_de_vertigo": {
+      "name": "sky_de_vertigo",
+      "material": "materials/skybox/sky_de_vertigo.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_hr_aztec_02": {
+      "name": "sky_hr_aztec_02",
+      "material": "materials/skybox/sky_hr_aztec_02.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_hr_aztec_02_lighting": {
+      "name": "sky_hr_aztec_02_lighting",
+      "material": "materials/skybox/sky_hr_aztec_02_lighting.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    },
+    "sky_overcast_01": {
+      "name": "sky_overcast_01",
+      "material": "materials/skybox/sky_overcast_01.vmat",
+      "brightness": null,
+      "color": null,
+      "permissions": null,
+      "permissionsOr": null
+    }
+  },
+  "Database": {
+    "Host": "37.27.107.76",
+    "Port": 3306,
+    "User": "cs2-fkz-1",
+    "Password": "TWM0b[47c)6$B£t",
+    "Database": "cs2_fkz_1",
+    "TablePrefix": "cs2_skyboxchanger_"
+  },
+  "MapDefault": {},
+  "MenuPermission": "@skybox/change",
+  "Version": 2,
+  "ConfigVersion": 2
+}

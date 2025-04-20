@@ -1,0 +1,9 @@
+{
+  "DatabaseParams": {
+    "Host": "eu.femboy.kz:3306",
+    "Name": "",
+    "User": "",
+    "Password": ""
+  },
+  "ConfigVersion": 1
+}

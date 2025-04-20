@@ -1,0 +1,61 @@
+{
+  "general": {
+    "minimum-demo-duration": 5,
+    "delete-demo-after-upload": true,
+    "delete-zipped-demo-after-upload": true,
+    "delete-every-demo-from-server-after-server-start": true,
+    "log-uploads": true,
+    "log-deletions": true,
+    "default-file-name": "demo_fkz",
+    "regular-file-naming-pattern": "{fileName}_{map}_{date}_{time}",
+    "crop-rounds-file-naming-pattern": "{fileName}_{map}_round{round}_{date}_{time}",
+    "demo-directory": "discord_demos"
+  },
+  "discord": {
+    "webhook-url": "https://discord.com/api/webhooks/",
+    "webhook-avatar": "https://files.femboy.kz/web/images/avatars/fkz.png",
+    "webhook-upload-file": true,
+    "webhook-name": "FKZ CS2 Demos",
+    "embed-title": "New CS2 Demo Available",
+    "message-text": "-",
+    "server-boost": 3
+  },
+  "auto-record": {
+    "enabled": true,
+    "crop-rounds": false,
+    "stop-on-idle": false,
+    "record-warmup": true,
+    "idle-player-count-threshold": 0,
+    "idle-time-seconds": 60
+  },
+  "mega": {
+    "enabled": false,
+    "email": "",
+    "password": ""
+  },
+  "demo-request": {
+    "enabled": false,
+    "print-all": true,
+    "delete-unused": true
+  },
+  "ftp": {
+    "enabled": false,
+    "host": "localhost",
+    "port": 22,
+    "username": "root",
+    "password": "root",
+    "remote-directory": "",
+    "use-sftp": true
+  },
+  "Database": {
+    "enabled": true,
+    "host": "",
+    "port": 3306,
+    "name": "",
+    "username": "",
+    "password": "",
+    "ssl-mode": "preferred",
+    "table_prefix": "gotv"
+  },
+  "ConfigVersion": 10
+}

@@ -1,0 +1,40 @@
+{
+  "GeneralConfig": {
+    "ServerIP": "eu.femboy.kz:2701X",
+    "UpdateInterval": 45,
+    "PHPURL": "https://cs2.femboy.kz/connect"
+  },
+  "WebhookConfig": {
+    "NotifyMembersRoleID": 0,
+    "NewMapNotification": false,
+    "GameEndScoreboard": false,
+    "NotifyWebhookURL": "",
+    "RequestPlayersURL": "",
+    "ScoreboardURL": "",
+    "StatusWebhookURL": "https://discord.com/api/webhooks/",
+    "StatusMessageID": null
+  },
+  "EmbedConfig": {
+    "Title": "FemboyKZ - CS2 | EU Whitelist | KZ",
+    "MapImg": "https://i.stack.imgur.com/Fzh0w.png",
+    "OfflineImg": "https://i.stack.imgur.com/Fzh0w.png",
+    "IdleImg": "https://i.stack.imgur.com/Fzh0w.png",
+    "RequestImg": "https://i.stack.imgur.com/Fzh0w.png",
+    "EmbedColor": "#ff00b3",
+    "RandomColor": false,
+    "MapField": "Map",
+    "OnlineField": "Online",
+    "CTField": " CT:",
+    "TField": " T:",
+    "SpecField": " SPEC:",
+    "MVPField": " MVP ",
+    "NameFormat": "{FLAG}{CLAN} {NAME}",
+    "EmbedSteamLink": true,
+    "RequestPlayers": "is requesting players to join the server",
+    "MapChange": "Map changed to {mapname}, Join Now",
+    "ServerEmpty": "Server Empty",
+    "JoinHere": "<- IP",
+    "PlayersInline": true
+  },
+  "Version": 5
+}

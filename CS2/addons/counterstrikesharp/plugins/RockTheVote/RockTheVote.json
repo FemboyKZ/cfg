@@ -1,0 +1,78 @@
+{
+  "Version": 15,
+  "Rtv": {
+    "Enabled": true,
+    "EnabledInWarmup": true,
+    "NominationEnabled": true,
+    "MinPlayers": 0,
+    "MinRounds": 0,
+    "ChangeMapImmediately": true,
+    "HideHudAfterVote": false,
+    "MapsToShow": 6,
+    "VoteDuration": 30,
+    "VotePercentage": 60,
+    "HudMenu": false,
+    "DontChangeRtv": true,
+    "IgnoreSpec": false,
+    "VoteCooldownTime": 0,
+    "ExtendTimeStep": 15,
+    "ExtendRoundStep": 5,
+    "ExtendLimit": 0
+  },
+  "Votemap": {
+    "Enabled": true,
+    "VotePercentage": 60,
+    "ChangeMapImmediately": true,
+    "EnabledInWarmup": true,
+    "MinPlayers": 0,
+    "MinRounds": 0,
+    "HudMenu": false,
+    "IgnoreSpec": false
+  },
+  "EndOfMapVote": {
+    "Enabled": true,
+    "MapsToShow": 6,
+    "HudMenu": false,
+    "ChangeMapImmediately": false,
+    "VoteDuration": 30,
+    "HideHudAfterVote": false,
+    "TriggerSecondsBeforeEnd": 120,
+    "TriggerRoundsBeforeEnd": 2,
+    "DelayToChangeInTheEnd": 6,
+    "AllowExtend": false,
+    "RoundBased": false,
+    "ExtendTimeStep": 15,
+    "ExtendRoundStep": 5,
+    "VotePercentage": 60,
+    "ExtendLimit": 0
+  },
+  "ExtendMapVote": {
+    "Enabled": false,
+    "EnabledInWarmup": false,
+    "MinPlayers": 0,
+    "MinRounds": 0,
+    "VotePercentage": 60,
+    "ChangeMapImmediately": false,
+    "IgnoreSpec": false,
+    "RoundBased": false,
+    "ExtendTimeStep": 15,
+    "ExtendRoundStep": 5
+  },
+  "VipExtendMapVote": {
+    "Enabled": false,
+    "VoteDuration": 30,
+    "VotePercentage": 60,
+    "ExtendTimeStep": 15,
+    "ExtendRoundStep": 5,
+    "ExtendLimit": 0,
+    "RoundBased": false,
+    "HudMenu": false
+  },
+  "Timeleft": {
+    "ShowToAll": false
+  },
+  "Nextmap": {
+    "ShowToAll": false
+  },
+  "MapsInCoolDown": 0
+}

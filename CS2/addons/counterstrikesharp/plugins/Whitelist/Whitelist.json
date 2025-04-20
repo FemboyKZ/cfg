@@ -1,0 +1,24 @@
+{
+  "UseDatabase": false,
+  "KickIfFailed": false,
+  "UseAsBlacklist": false,
+  "SendMessageOnChatAfterKick": true,
+  "Database": {
+    "Host": "",
+    "Port": 3306,
+    "User": "",
+    "Password": "",
+    "Name": "",
+    "Prefix": "whitelist"
+  },
+  "Commands": {
+    "Add": "wladd",
+    "AddPermission": "@css/root",
+    "Remove": "wlremove",
+    "RemovePermission": "@css/root"
+  },
+  "CheckIfMemberIsInGroup": false,
+  "Apikey": "",
+  "ServerID": -1,
+  "ConfigVersion": 3
+}

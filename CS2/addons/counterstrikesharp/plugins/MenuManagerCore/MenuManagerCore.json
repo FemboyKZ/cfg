@@ -1,0 +1,20 @@
+{
+  "DefaultMenu": "ChatMenu",
+  "SoundScroll": "",
+  "SoundClick": "",
+  "SoundDisabled": "",
+  "SoundBack": "",
+  "SoundExit": "",
+  "MoveWhileOpenMenu": false,
+  "ButtonsConfig": {
+    "UpButton": 8,
+    "DownButton": 16,
+    "LeftButton": 512,
+    "RightButton": 1024,
+    "SelectButton": 32,
+    "ExitButton": 8192,
+    "BackButton": 4
+  },
+  "IgnoreErrors": true,
+  "ConfigVersion": 1
+}
