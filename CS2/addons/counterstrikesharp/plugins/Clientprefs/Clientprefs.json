@@ -1,0 +1,12 @@
+{
+  "TableName": "css_cookies",
+  "TableNamePlayerData": "css_cookies_playerdata",
+  "DatabaseType": "sqlite",
+  "DatabaseHost": "",
+  "DatabaseName": "",
+  "DatabaseUsername": "",
+  "DatabasePassword": "",
+  "DatabasePort": 3306,
+  "DatabaseSslmode": "",
+  "ConfigVersion": 1
+}

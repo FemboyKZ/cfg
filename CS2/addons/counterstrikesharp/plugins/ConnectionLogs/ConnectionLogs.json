@@ -1,0 +1,14 @@
+{
+  "ChatPrefix": "{Purple}FKZ {White}| ",
+
+  "SendMessageToDiscord": true,
+  "DiscordWebhook": "https://discord.com/api/webhooks/",
+
+  "StoreInDatabase": true,
+  "DatabaseHost": "",
+  "DatabasePort": 3306,
+  "DatabaseUser": "",
+  "DatabasePassword": "",
+  "DatabaseName": "",
+  "ConfigVersion": 1
+}

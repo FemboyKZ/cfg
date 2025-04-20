@@ -1,0 +1,112 @@
+[Settings]
+DeadName = "{Grey}*DEAD*"
+NoneName = "{White}(NONE)"
+SpecName = "{Purple}(SPEC)"
+TName = "{Yellow}(T)"
+CTName = "{Blue}(CT)"
+
+[Default]
+ScoreTag = ""
+ChatTag = ""
+ChatColor = "{White}"
+NameColor = "{TeamColor}"
+ChatSound = false
+
+[DatabaseConnection]
+MySQL = true
+Host = ""
+Port = 3306
+User = ""
+Password = ""
+Name = ""
+
+[[Tags]]
+Role = "76561198268569118"
+ScoreTag = ">.< "
+ChatTag = "{Magenta}:3 "
+ChatColor = "{Magenta}"
+NameColor = "{Magenta}"
+
+[[Tags]]
+Role = "76561199114604931"
+ScoreTag = "slow "
+ChatTag = "{Magenta}slow "
+ChatColor = "{White}"
+NameColor = "{White}"
+
+[[Tags]]
+Role = "76561198206171501"
+ScoreTag = "xd "
+ChatTag = "{Magenta}xd "
+ChatColor = "{White}"
+NameColor = "{White}"
+
+[[Tags]]
+Role = "#OWNER"
+ScoreTag = "[OWNER] "
+ChatTag = "{Gold}[OWNER] "
+ChatColor = "{White}"
+NameColor = "{Gold}"
+
+[[Tags]]
+Role = "#ADMIN"
+ScoreTag = "[ADMIN] "
+ChatTag = "{Purple}[ADMIN] "
+ChatColor = "{White}"
+NameColor = "{Purple}"
+
+[[Tags]]
+Role = "#MOD"
+ScoreTag = "[MOD] "
+ChatTag = "{Magenta}[MOD] "
+ChatColor = "{White}"
+NameColor = "{Magenta}"
+
+[[Tags]]
+Role = "#DEV"
+ScoreTag = "[DEV] "
+ChatTag = "{DarkRed}[DEV] "
+ChatColor = "{White}"
+NameColor = "{DarkRed}"
+
+[[Tags]]
+Role = "#CONTRIBUTOR"
+ScoreTag = "[CONTRIBUTOR] "
+ChatTag = "{DarkBlue}[CONTRIBUTOR] "
+ChatColor = "{White}"
+NameColor = "{DarkBlue}"
+
+[[Tags]]
+Role = "#VIP+"
+ScoreTag = "[VIP+] "
+ChatTag = "{Blue}[VIP+] "
+ChatColor = "{White}"
+NameColor = "{Blue}"
+
+[[Tags]]
+Role = "#VIP"
+ScoreTag = "[VIP] "
+ChatTag = "{LightBlue}[VIP] "
+ChatColor = "{White}"
+NameColor = "{LightBlue}"
+
+[[Tags]]
+Role = "#GMC"
+ScoreTag = "[GMC] "
+ChatTag = "{Red}[GMC] "
+ChatColor = "{White}"
+NameColor = "{Red}"
+
+[[Tags]]
+Role = "#VNL"
+ScoreTag = "[VNL] "
+ChatTag = "{LightRed}[VNL] "
+ChatColor = "{White}"
+NameColor = "{LightRed}"
+
+[[Tags]]
+Role = "#OG"
+ScoreTag = "[OG] "
+ChatTag = "{White}[OG] "
+ChatColor = "{White}"
+NameColor = "{White}"
