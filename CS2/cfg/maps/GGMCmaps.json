@@ -501,11 +501,10 @@
     "weight": 1
   },
   "cs_agency": {
-    "ws": true,
+    "ws": false,
     "minplayers": 0,
     "maxplayers": 64,
-    "weight": 1,
-    "mapid": "3339983232"
+    "weight": 1
   },
   "cs_italy": {
     "ws": false,
@@ -539,6 +538,19 @@
     "mapid": "3071005299"
   },
   "de_basalt": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3329258290"
+  },
+  "de_brewery": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_dogtown": {
     "ws": false,
     "minplayers": 0,
     "maxplayers": 64,
@@ -558,12 +570,25 @@
     "weight": 1
   },
   "de_edin": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3328169568"
+  },
+  "de_grail": {
     "ws": false,
     "minplayers": 0,
     "maxplayers": 64,
     "weight": 1
   },
   "de_inferno": {
+    "ws": false,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1
+  },
+  "de_jura": {
     "ws": false,
     "minplayers": 0,
     "maxplayers": 64,
@@ -602,10 +627,11 @@
     "weight": 1
   },
   "de_palais": {
-    "ws": false,
+    "ws": true,
     "minplayers": 0,
     "maxplayers": 64,
-    "weight": 1
+    "weight": 1,
+    "mapid": "3257582863"
   },
   "de_thera": {
     "ws": true,
@@ -627,9 +653,10 @@
     "weight": 1
   },
   "de_whistle": {
-    "ws": false,
+    "ws": true,
     "minplayers": 0,
     "maxplayers": 64,
-    "weight": 1
+    "weight": 1,
+    "mapid": "3308613773"
   }
 }
