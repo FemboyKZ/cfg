@@ -48,12 +48,33 @@
     "weight": 1,
     "mapid": "3451061007"
   },
+  "kz_after_agitation_v2": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3466257543"
+  },
   "kz_alfama": {
     "ws": true,
     "minplayers": 0,
     "maxplayers": 64,
     "weight": 1,
     "mapid": "3237967740"
+  },
+  "kz_alouette_fix": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3464249269"
+  },
+  "kz_angina_final": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3468709564"
   },
   "kz_apasanka": {
     "ws": true,
@@ -111,6 +132,13 @@
     "weight": 1,
     "mapid": "3329139574"
   },
+  "kz_communityblock": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3455289829"
+  },
   "kz_communityjump3": {
     "ws": true,
     "minplayers": 0,
@@ -145,6 +173,13 @@
     "maxplayers": 64,
     "weight": 1,
     "mapid": "3448441395"
+  },
+  "kz_devon": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3434238689"
   },
   "kz_ehcivec_final": {
     "ws": true,
@@ -321,6 +356,13 @@
     "weight": 1,
     "mapid": "3348711619"
   },
+  "kz_mz": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3468891853"
+  },
   "kz_neighbourhood": {
     "ws": true,
     "minplayers": 0,
@@ -341,6 +383,13 @@
     "maxplayers": 64,
     "weight": 1,
     "mapid": "3332796414"
+  },
+  "kz_otakuroom_v3": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3463558904"
   },
   "kz_paradise": {
     "ws": true,
@@ -426,6 +475,20 @@
     "weight": 1,
     "mapid": "3276311176"
   },
+  "kz_slowerrun": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3473587380"
+  },
+  "kz_slowrun_global_fix": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3473295121"
+  },
   "kz_sonder": {
     "ws": true,
     "minplayers": 0,
@@ -447,6 +510,13 @@
     "weight": 1,
     "mapid": "3353950265"
   },
+  "kz_valley": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3469847057"
+  },
   "kz_variety": {
     "ws": true,
     "minplayers": 0,
@@ -460,6 +530,27 @@
     "maxplayers": 64,
     "weight": 1,
     "mapid": "3086304337"
+  },
+  "kz_wasabi": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3469288337"
+  },
+  "kz_weightless": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3453892880"
+  },
+  "kz_wetlands": {
+    "ws": true,
+    "minplayers": 0,
+    "maxplayers": 64,
+    "weight": 1,
+    "mapid": "3464982214"
   },
   "kz_xmas2023": {
     "ws": true,
