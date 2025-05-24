@@ -458,6 +458,7 @@ kz_holdmyhand
 kz_holmu1
 kz_holyspace
 kz_hope
+kz_hopkinsgym
 kz_how2slide_fix
 kz_huber
 kz_hydromancy
