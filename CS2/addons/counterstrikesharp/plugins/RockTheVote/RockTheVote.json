@@ -1,78 +1,84 @@
 {
-  "Version": 15,
+  "ConfigVersion": 15,
   "Rtv": {
     "Enabled": true,
     "EnabledInWarmup": true,
-    "NominationEnabled": true,
+    "EnablePanorama": false,
     "MinPlayers": 0,
     "MinRounds": 0,
-    "ChangeMapImmediately": true,
-    "HideHudAfterVote": false,
+    "ChangeMapImmediatly": true,
+    "SoundEnabled": false,
+    "SoundPath": "",
     "MapsToShow": 6,
-    "VoteDuration": 30,
-    "VotePercentage": 60,
-    "HudMenu": false,
-    "DontChangeRtv": true,
-    "IgnoreSpec": false,
-    "VoteCooldownTime": 0,
-    "ExtendTimeStep": 15,
-    "ExtendRoundStep": 5,
-    "ExtendLimit": 0
-  },
-  "Votemap": {
-    "Enabled": true,
-    "VotePercentage": 60,
-    "ChangeMapImmediately": true,
-    "EnabledInWarmup": true,
-    "MinPlayers": 0,
-    "MinRounds": 0,
-    "HudMenu": false,
-    "IgnoreSpec": false
+    "RtvVoteDuration": 30,
+    "MapVoteDuration": 60,
+    "CooldownDuration": 0,
+    "MapStartDelay": 0,
+    "VotePercentage": 50,
+    "EnableCountdown": true,
+    "CountdownType": "chat",
+    "ChatCountdownInterval": 10
   },
   "EndOfMapVote": {
     "Enabled": true,
     "MapsToShow": 6,
-    "HudMenu": false,
-    "ChangeMapImmediately": false,
-    "VoteDuration": 30,
-    "HideHudAfterVote": false,
-    "TriggerSecondsBeforeEnd": 120,
-    "TriggerRoundsBeforeEnd": 2,
-    "DelayToChangeInTheEnd": 6,
-    "AllowExtend": false,
-    "RoundBased": false,
-    "ExtendTimeStep": 15,
-    "ExtendRoundStep": 5,
-    "VotePercentage": 60,
-    "ExtendLimit": 0
+    "MenuType": "ChatMenu",
+    "ChangeMapImmediatly": false,
+    "VoteDuration": 60,
+    "SoundEnabled": false,
+    "SoundPath": "",
+    "TriggerSecondsBeforeEnd": 180,
+    "TriggerRoundsBeforeEnd": 0,
+    "DelayToChangeInTheEnd": 0,
+    "IncludeExtendCurrentMap": true,
+    "EnableCountdown": false,
+    "CountdownType": "chat",
+    "ChatCountdownInterval": 30
   },
-  "ExtendMapVote": {
-    "Enabled": false,
+  "Nominate": {
+    "Enabled": true,
+    "EnabledInWarmup": true,
+    "MenuType": "ChatMenu",
+    "NominateLimit": 1,
+    "Permission": ""
+  },
+  "Votemap": {
+    "Enabled": true,
+    "MenuType": "ChatMenu",
+    "VotePercentage": 50,
+    "ChangeMapImmediatly": true,
     "EnabledInWarmup": false,
     "MinPlayers": 0,
     "MinRounds": 0,
-    "VotePercentage": 60,
-    "ChangeMapImmediately": false,
-    "IgnoreSpec": false,
-    "RoundBased": false,
-    "ExtendTimeStep": 15,
-    "ExtendRoundStep": 5
+    "Permission": "@css/vip"
   },
-  "VipExtendMapVote": {
+  "VoteExtend": {
     "Enabled": false,
-    "VoteDuration": 30,
-    "VotePercentage": 60,
-    "ExtendTimeStep": 15,
-    "ExtendRoundStep": 5,
-    "ExtendLimit": 0,
-    "RoundBased": false,
-    "HudMenu": false
+    "EnablePanorama": false,
+    "VoteDuration": 60,
+    "VotePercentage": 50,
+    "CooldownDuration": 180,
+    "EnableCountdown": true,
+    "CountdownType": "chat",
+    "ChatCountdownInterval": 15,
+    "Permission": "@css/vip"
   },
-  "Timeleft": {
-    "ShowToAll": false
+  "ScreenMenu": {
+    "MenuType": "Both",
+    "EnableResolutionOption": false,
+    "EnableExitOption": false,
+    "FreezePlayer": false,
+    "ScrollUpKey": "Attack",
+    "ScrollDownKey": "Attack2",
+    "SelectKey": "E",
+    "EnableChatHelper": true
   },
-  "Nextmap": {
-    "ShowToAll": false
-  },
-  "MapsInCoolDown": 0
+  "General": {
+    "MaxMapExtensions": 0,
+    "RoundTimeExtension": 0,
+    "MapsInCoolDown": 0,
+    "HideHudAfterVote": true,
+    "RandomStartMap": false,
+    "DiscordWebhook": ""
+  }
 }
