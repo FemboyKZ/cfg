@@ -35,6 +35,13 @@ ChatColor = "{White}"
 NameColor = "{White}"
 
 [[Tags]]
+Role = "76561199385094595"
+ScoreTag = "Meower "
+ChatTag = "{LightPurple}Meower "
+ChatColor = "{White}"
+NameColor = "{White}"
+
+[[Tags]]
 Role = "76561199114604931"
 ScoreTag = "slow "
 ChatTag = "{Magenta}slow "
