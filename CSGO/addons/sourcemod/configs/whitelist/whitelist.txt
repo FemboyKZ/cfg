@@ -61,6 +61,9 @@ STEAM_1:0:168949104 ; r_by
 STEAM_1:1:192025491 ; omoshiroi
 STEAM_1:0:610209910 ; bucketgirl
 STEAM_1:1:522329283 ; suspect
+STEAM_1:1:930167774 ; thelasttoremain
+STEAM_1:1:577036566 ; moya
+STEAM_1:0:533583804 ; soppygoose89
 
 ; Other
 STEAM_1:0:15503295 ; ropz
