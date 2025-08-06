@@ -346,5 +346,9 @@
   "80sRetro": {
     "identity": "76561198844479708",
     "groups": ["#css/vip"]
+  },
+  "violence": {
+    "identity": "76561198820444962",
+    "groups": ["#css/vip"]
   }
 }
