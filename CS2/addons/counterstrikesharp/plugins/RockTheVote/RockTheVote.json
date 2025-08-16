@@ -1,5 +1,5 @@
 {
-  "ConfigVersion": 16,
+  "ConfigVersion": 18,
   "Rtv": {
     "Enabled": true,
     "EnabledInWarmup": true,
@@ -17,7 +17,8 @@
     "VotePercentage": 50,
     "EnableCountdown": true,
     "CountdownType": "chat",
-    "ChatCountdownInterval": 10
+    "ChatCountdownInterval": 10,
+    "ChangeAtRoundEnd": false
   },
   "EndOfMapVote": {
     "Enabled": true,
@@ -63,15 +64,10 @@
     "ChatCountdownInterval": 15,
     "Permission": "@css/vip"
   },
-  "ScreenMenu": {
-    "MenuType": "Both",
-    "EnableResolutionOption": false,
-    "EnableExitOption": false,
-    "FreezePlayer": false,
-    "ScrollUpKey": "Attack",
-    "ScrollDownKey": "Attack2",
-    "SelectKey": "E",
-    "EnableChatHelper": true
+  "MapChooser": {
+    "Command": "mapmenu",
+    "MenuType": "ChatMenu",
+    "Permission": "@css/root,@css/changemap"
   },
   "General": {
     "MaxMapExtensions": 0,
