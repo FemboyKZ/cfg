@@ -354,5 +354,9 @@
   "xd": {
     "identity": "76561199115033747",
     "groups": ["#css/vip"]
+  },
+  "mike": {
+    "identity": "76561199830167780",
+    "groups": ["#css/vip"]
   }
 }
