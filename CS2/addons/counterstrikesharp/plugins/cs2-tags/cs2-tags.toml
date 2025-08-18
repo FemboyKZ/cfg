@@ -13,114 +13,129 @@ NameColor = "{TeamColor}"
 ChatSound = false
 
 [DatabaseConnection]
-MySQL = true
+MySQL = false
 Host = ""
 Port = 3306
 User = ""
 Password = ""
 Name = ""
 
-[[Tags]]
+[76561198268569118]
 Role = "76561198268569118"
 ScoreTag = ">.< "
 ChatTag = "{Magenta}:3 "
 ChatColor = "{Magenta}"
 NameColor = "{Magenta}"
+ChatSound = false
 
-[[Tags]]
+[76561199214310539]
 Role = "76561199214310539"
 ScoreTag = "boa "
 ChatTag = "{DarkRed}boa "
 ChatColor = "{White}"
 NameColor = "{White}"
+ChatSound = false
 
-[[Tags]]
+[76561199385094595]
 Role = "76561199385094595"
 ScoreTag = "Meower "
 ChatTag = "{LightPurple}Meower "
 ChatColor = "{White}"
 NameColor = "{White}"
+ChatSound = false
 
-[[Tags]]
+[76561199114604931]
 Role = "76561199114604931"
 ScoreTag = "slow "
 ChatTag = "{Magenta}slow "
 ChatColor = "{White}"
 NameColor = "{White}"
+ChatSound = false
 
-[[Tags]]
+[76561198206171501]
 Role = "76561198206171501"
 ScoreTag = "xd "
 ChatTag = "{Magenta}xd "
 ChatColor = "{White}"
 NameColor = "{White}"
+ChatSound = false
 
-[[Tags]]
+["#OWNER"]
 Role = "#OWNER"
 ScoreTag = "[OWNER] "
 ChatTag = "{Gold}[OWNER] "
 ChatColor = "{White}"
 NameColor = "{Gold}"
+ChatSound = false
 
-[[Tags]]
+["#ADMIN"]
 Role = "#ADMIN"
 ScoreTag = "[ADMIN] "
 ChatTag = "{Purple}[ADMIN] "
 ChatColor = "{White}"
 NameColor = "{Purple}"
+ChatSound = false
 
-[[Tags]]
+["#MOD"]
 Role = "#MOD"
 ScoreTag = "[MOD] "
 ChatTag = "{Magenta}[MOD] "
 ChatColor = "{White}"
 NameColor = "{Magenta}"
+ChatSound = false
 
-[[Tags]]
+["#DEV"]
 Role = "#DEV"
 ScoreTag = "[DEV] "
 ChatTag = "{DarkRed}[DEV] "
 ChatColor = "{White}"
 NameColor = "{DarkRed}"
+ChatSound = false
 
-[[Tags]]
+["#CONTRIBUTOR"]
 Role = "#CONTRIBUTOR"
 ScoreTag = "[CONTRIBUTOR] "
 ChatTag = "{DarkBlue}[CONTRIBUTOR] "
 ChatColor = "{White}"
 NameColor = "{DarkBlue}"
+ChatSound = false
 
-[[Tags]]
+["#VIP+"]
 Role = "#VIP+"
 ScoreTag = "[VIP+] "
 ChatTag = "{Blue}[VIP+] "
 ChatColor = "{White}"
 NameColor = "{Blue}"
+ChatSound = false
 
-[[Tags]]
+["#VIP"]
 Role = "#VIP"
 ScoreTag = "[VIP] "
 ChatTag = "{LightBlue}[VIP] "
 ChatColor = "{White}"
 NameColor = "{LightBlue}"
+ChatSound = false
 
-[[Tags]]
+["#GMC"]
 Role = "#GMC"
 ScoreTag = "[GMC] "
 ChatTag = "{Red}[GMC] "
 ChatColor = "{White}"
 NameColor = "{Red}"
+ChatSound = false
 
-[[Tags]]
+["#VNL"]
 Role = "#VNL"
 ScoreTag = "[VNL] "
 ChatTag = "{LightRed}[VNL] "
 ChatColor = "{White}"
 NameColor = "{LightRed}"
+ChatSound = false
 
-[[Tags]]
+["#OG"]
 Role = "#OG"
 ScoreTag = "[OG] "
 ChatTag = "{White}[OG] "
 ChatColor = "{White}"
 NameColor = "{White}"
+ChatSound = false

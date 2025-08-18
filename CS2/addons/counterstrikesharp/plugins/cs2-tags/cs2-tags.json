@@ -1,0 +1,162 @@
+{
+  "Settings": {
+    "Tag": "",
+    "DeadName": "{Grey}*DEAD*",
+    "NoneName": "{White}(NONE)",
+    "SpecName": "{Purple}(SPEC)",
+    "TName": "{Yellow}(T)",
+    "CTName": "{Blue}(CT)"
+  },
+  "Commands": {
+    "TagsReload": ["css_tags_reload"],
+    "Visibility": ["css_toggletags"]
+  },
+  "Default": {
+    "Role": null,
+    "ScoreTag": null,
+    "ChatTag": null,
+    "ChatColor": "{White}",
+    "NameColor": "{TeamColor}",
+    "Visibility": true,
+    "ChatSound": false
+  },
+  "Tags": [
+    {
+      "76561198268569118": {
+        "ScoreTag": ">.< ",
+        "ChatTag": "{Magenta}:3 ",
+        "ChatColor": "{Magenta}",
+        "NameColor": "{Magenta}",
+        "ChatSound": false
+      }
+    },
+    {
+      "76561199214310539": {
+        "ScoreTag": "boa ",
+        "ChatTag": "{DarkRed}boa ",
+        "ChatColor": "{White}",
+        "NameColor": "{White}",
+        "ChatSound": false
+      }
+    },
+    {
+      "76561199385094595": {
+        "ScoreTag": "Meower ",
+        "ChatTag": "{LightPurple}Meower ",
+        "ChatColor": "{White}",
+        "NameColor": "{White}",
+        "ChatSound": false
+      }
+    },
+    {
+      "76561199114604931": {
+        "ScoreTag": "slow ",
+        "ChatTag": "{Magenta}slow ",
+        "ChatColor": "{White}",
+        "NameColor": "{White}",
+        "ChatSound": false
+      }
+    },
+    {
+      "76561198206171501": {
+        "Role": "76561198206171501",
+        "ScoreTag": "xd ",
+        "ChatTag": "{Magenta}xd ",
+        "ChatColor": "{White}",
+        "NameColor": "{White}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#OWNER": {
+        "ScoreTag": "[OWNER] ",
+        "ChatTag": "{Gold}[OWNER] ",
+        "ChatColor": "{White}",
+        "NameColor": "{Gold}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#ADMIN": {
+        "ScoreTag": "[ADMIN] ",
+        "ChatTag": "{Purple}[ADMIN] ",
+        "ChatColor": "{White}",
+        "NameColor": "{Purple}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#MOD": {
+        "ScoreTag": "[MOD] ",
+        "ChatTag": "{Magenta}[MOD] ",
+        "ChatColor": "{White}",
+        "NameColor": "{Magenta}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#DEV": {
+        "ScoreTag": "[DEV] ",
+        "ChatTag": "{DarkRed}[DEV] ",
+        "ChatColor": "{White}",
+        "NameColor": "{DarkRed}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#CONTRIBUTOR": {
+        "ScoreTag": "[CONTRIBUTOR] ",
+        "ChatTag": "{DarkBlue}[CONTRIBUTOR] ",
+        "ChatColor": "{White}",
+        "NameColor": "{DarkBlue}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#VIP+": {
+        "ScoreTag": "[VIP+] ",
+        "ChatTag": "{Blue}[VIP+] ",
+        "ChatColor": "{White}",
+        "NameColor": "{Blue}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#VIP": {
+        "ScoreTag": "[VIP] ",
+        "ChatTag": "{LightBlue}[VIP] ",
+        "ChatColor": "{White}",
+        "NameColor": "{LightBlue}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#GMC": {
+        "ScoreTag": "[GMC] ",
+        "ChatTag": "{Red}[GMC] ",
+        "ChatColor": "{White}",
+        "NameColor": "{Red}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#VNL": {
+        "ScoreTag": "[VNL] ",
+        "ChatTag": "{LightRed}[VNL] ",
+        "ChatColor": "{White}",
+        "NameColor": "{LightRed}",
+        "ChatSound": false
+      }
+    },
+    {
+      "#OG": {
+        "ScoreTag": "[OG] ",
+        "ChatTag": "{White}[OG] ",
+        "ChatColor": "{White}",
+        "NameColor": "{White}",
+        "ChatSound": false
+      }
+    }
+  ],
+  "ConfigVersion": 1
+}
