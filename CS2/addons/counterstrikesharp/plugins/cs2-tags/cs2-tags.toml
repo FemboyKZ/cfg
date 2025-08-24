@@ -44,6 +44,14 @@ ChatColor = "{White}"
 NameColor = "{White}"
 ChatSound = false
 
+[76561198111034630]
+Role = "76561198111034630"
+ScoreTag = "cat "
+ChatTag = "{LightPurple}cat "
+ChatColor = "{White}"
+NameColor = "{White}"
+ChatSound = false
+
 [76561199114604931]
 Role = "76561199114604931"
 ScoreTag = "slow "
