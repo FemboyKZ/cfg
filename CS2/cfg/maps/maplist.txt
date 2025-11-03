@@ -49,6 +49,7 @@ kz_angina_final:3468709564
 kz_antharas:3338102767
 kz_apasanka:3346109633
 kz_avalon:3583337319
+kz_bayharborbhopper:3593758954
 kz_beginnerblock:3445887668
 kz_bhop_apricity:3514400945
 kz_bhop_koki_niwa:3506881159
@@ -61,6 +62,7 @@ kz_bkz_sahara:3495283332
 kz_blackness:3458637330
 kz_bluehop_mq:3496529331
 kz_bluekarko:3539143823
+kz_boonies:3591354316
 kz_butterfly:3248925340
 kz_celestial:3343117229
 kz_cellblock:3589491201
@@ -104,10 +106,12 @@ kz_gus:3082144971
 kz_haki_v2:3280439252
 kz_hb_7864:3256277396
 kz_hereafter:3538587295
+kz_hex:3584437689
 kz_hillside:3587750305
 kz_hitech:3411324243
 kz_hoist:3455113833
 kz_hopeless:3468551503
+kz_horrorblock:3582131545
 kz_htraeton:3540504141
 kz_igneous:3102712799
 kz_illusion_gfix:3445782360
@@ -181,6 +185,7 @@ kz_rlk:3456225822
 kz_rome:3294243116
 kz_royalcapital:3366541429
 kz_sanctuary:3350663039
+kz_sanctum:3582314764
 kz_sandstone_mq:3498064307
 kz_serfdom:3162361624
 kz_shift:3523939369
