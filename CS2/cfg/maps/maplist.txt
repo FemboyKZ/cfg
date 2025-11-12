@@ -10,6 +10,7 @@ cs_agency:3339983232
 cs_italy
 cs_office
 de_ancient
+de_ancient_night
 de_anubis
 de_assembly:3071005299
 de_basalt:3329258290
@@ -18,6 +19,7 @@ de_cache:3437809122
 de_dogtown:3414036782
 de_dust2
 de_edin:3328169568
+de_golden
 de_grail:3246527710
 de_inferno
 de_jura:3261289969
@@ -26,7 +28,9 @@ de_mills:3152430710
 de_mirage
 de_nuke
 de_overpass
+de_palacio
 de_palais:3257582863
+de_rooftop
 de_thera:3121217565
 de_train
 de_vertigo
