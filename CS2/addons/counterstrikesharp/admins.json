@@ -37,7 +37,7 @@
   },
   "uber": {
     "identity": "76561198991484485",
-    "groups": ["#css/mod"]
+    "groups": ["#css/admin"]
   },
   "jas": {
     "identity": "76561198057416875",
@@ -362,5 +362,9 @@
   "kri": {
     "identity": "76561198111034630",
     "groups": ["#css/contributor"]
+  },
+  "violeNt": {
+    "identity": "76561199163095064",
+    "groups": ["#css/vip"]
   }
 }
