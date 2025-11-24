@@ -1,169 +1,174 @@
 {
-  "Commands": {
+  "commands": {
     "css_ban": {
-      "Aliases": [
+      "aliases": [
         "css_ban"
       ]
     },
     "css_addban": {
-      "Aliases": [
+      "aliases": [
         "css_addban"
       ]
     },
     "css_banip": {
-      "Aliases": [
+      "aliases": [
         "css_banip"
       ]
     },
     "css_unban": {
-      "Aliases": [
+      "aliases": [
         "css_unban"
       ]
     },
     "css_warn": {
-      "Aliases": [
+      "aliases": [
         "css_warn"
       ]
     },
     "css_unwarn": {
-      "Aliases": [
+      "aliases": [
         "css_unwarn"
       ]
     },
     "css_asay": {
-      "Aliases": [
+      "aliases": [
         "css_asay"
       ]
     },
     "css_cssay": {
-      "Aliases": [
+      "aliases": [
         "css_cssay"
       ]
     },
     "css_say": {
-      "Aliases": [
+      "aliases": [
         "css_say"
       ]
     },
     "css_psay": {
-      "Aliases": [
+      "aliases": [
         "css_psay"
       ]
     },
     "css_csay": {
-      "Aliases": [
+      "aliases": [
         "css_csay"
       ]
     },
     "css_hsay": {
-      "Aliases": [
+      "aliases": [
         "css_hsay"
       ]
     },
     "css_penalties": {
-      "Aliases": [
+      "aliases": [
         "css_penalties",
         "css_mypenalties",
         "css_comms"
       ]
     },
     "css_admin": {
-      "Aliases": [
+      "aliases": [
         "css_admin"
       ]
     },
     "css_adminhelp": {
-      "Aliases": [
+      "aliases": [
         "css_adminhelp"
       ]
     },
     "css_addadmin": {
-      "Aliases": [
+      "aliases": [
         "css_addadmin"
       ]
     },
     "css_deladmin": {
-      "Aliases": [
+      "aliases": [
         "css_deladmin"
       ]
     },
     "css_addgroup": {
-      "Aliases": [
+      "aliases": [
         "css_addgroup"
       ]
     },
     "css_delgroup": {
-      "Aliases": [
+      "aliases": [
         "css_delgroup"
       ]
     },
     "css_reloadadmins": {
-      "Aliases": [
+      "aliases": [
         "css_reloadadmins"
       ]
     },
+    "css_reloadbans": {
+      "aliases": [
+        "css_reloadbans"
+      ]
+    },
     "css_hide": {
-      "Aliases": [
-        "css_hide",
+      "aliases": [
+        "css_sahide",
         "css_stealth"
       ]
     },
     "css_hidecomms": {
-      "Aliases": [
+      "aliases": [
         "css_hidecomms"
       ]
     },
     "css_who": {
-      "Aliases": [
+      "aliases": [
         "css_who"
       ]
     },
     "css_disconnected": {
-      "Aliases": [
+      "aliases": [
         "css_disconnected",
         "css_last"
       ]
     },
     "css_warns": {
-      "Aliases": [
+      "aliases": [
         "css_warns"
       ]
     },
     "css_players": {
-      "Aliases": [
+      "aliases": [
         "css_players"
       ]
     },
     "css_kick": {
-      "Aliases": [
+      "aliases": [
         "css_kick"
       ]
     },
     "css_map": {
-      "Aliases": [
+      "aliases": [
         "css_map",
         "css_changemap"
       ]
     },
     "css_wsmap": {
-      "Aliases": [
+      "aliases": [
         "css_wsmap",
         "css_changewsmap",
         "css_workshop"
       ]
     },
     "css_cvar": {
-      "Aliases": [
+      "aliases": [
         "css_cvar"
       ]
     },
     "css_rcon": {
-      "Aliases": [
+      "aliases": [
         "css_rcon"
       ]
     },
     "css_rr": {
-      "Aliases": [
+      "aliases": [
         "css_rr",
         "css_rg",
         "css_restart",
@@ -171,156 +176,162 @@
       ]
     },
     "css_gag": {
-      "Aliases": [
+      "aliases": [
         "css_gag"
       ]
     },
     "css_addgag": {
-      "Aliases": [
+      "aliases": [
         "css_addgag"
       ]
     },
     "css_ungag": {
-      "Aliases": [
+      "aliases": [
         "css_ungag"
       ]
     },
     "css_mute": {
-      "Aliases": [
+      "aliases": [
         "css_mute"
       ]
     },
     "css_addmute": {
-      "Aliases": [
+      "aliases": [
         "css_addmute"
       ]
     },
     "css_unmute": {
-      "Aliases": [
+      "aliases": [
         "css_unmute"
       ]
     },
     "css_silence": {
-      "Aliases": [
+      "aliases": [
         "css_silence"
       ]
     },
     "css_addsilence": {
-      "Aliases": [
+      "aliases": [
         "css_addsilence"
       ]
     },
     "css_unsilence": {
-      "Aliases": [
+      "aliases": [
         "css_unsilence"
       ]
     },
     "css_vote": {
-      "Aliases": [
+      "aliases": [
         "css_vote"
       ]
     },
     "css_noclip": {
-      "Aliases": [
+      "aliases": [
         "css_noclip"
       ]
     },
     "css_freeze": {
-      "Aliases": [
+      "aliases": [
         "css_freeze"
       ]
     },
     "css_unfreeze": {
-      "Aliases": [
+      "aliases": [
         "css_unfreeze"
       ]
     },
     "css_godmode": {
-      "Aliases": [
+      "aliases": [
         "css_godmode"
       ]
     },
     "css_slay": {
-      "Aliases": [
+      "aliases": [
         "css_slay"
       ]
     },
     "css_slap": {
-      "Aliases": [
+      "aliases": [
         "css_slap"
       ]
     },
     "css_give": {
-      "Aliases": [
+      "aliases": [
         "css_give"
       ]
     },
     "css_strip": {
-      "Aliases": [
+      "aliases": [
         "css_strip"
       ]
     },
     "css_hp": {
-      "Aliases": [
+      "aliases": [
         "css_hp"
       ]
     },
     "css_speed": {
-      "Aliases": [
+      "aliases": [
         "css_speed"
       ]
     },
     "css_gravity": {
-      "Aliases": [
+      "aliases": [
         "css_gravity"
       ]
     },
+    "css_resize": {
+      "aliases": [
+        "css_resize",
+        "css_size"
+      ]
+    },
     "css_money": {
-      "Aliases": [
+      "aliases": [
         "css_money"
       ]
     },
     "css_team": {
-      "Aliases": [
+      "aliases": [
         "css_team"
       ]
     },
     "css_rename": {
-      "Aliases": [
+      "aliases": [
         "css_rename"
       ]
     },
     "css_prename": {
-      "Aliases": [
+      "aliases": [
         "css_prename"
       ]
     },
     "css_respawn": {
-      "Aliases": [
+      "aliases": [
         "css_respawn"
       ]
     },
     "css_tp": {
-      "Aliases": [
+      "aliases": [
         "css_tp",
         "css_tpto",
         "css_goto"
       ]
     },
     "css_bring": {
-      "Aliases": [
+      "aliases": [
         "css_bring",
         "css_tphere"
       ]
     },
     "css_pluginsmanager": {
-      "Aliases": [
+      "aliases": [
         "css_pluginsmanager",
         "css_pluginmanager"
       ]
     },
     "css_adminvoice": {
-      "Aliases": [
+      "aliases": [
         "css_adminvoice",
         "css_listenall"
       ]
