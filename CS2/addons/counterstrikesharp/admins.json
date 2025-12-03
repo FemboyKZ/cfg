@@ -378,5 +378,9 @@
   "sorxn": {
     "identity": "76561199063108022",
     "groups": ["#css/vip"]
+  },
+  "pce": {
+    "identity": "76561199146446082",
+    "groups": ["#css/vip"]
   }
 }
