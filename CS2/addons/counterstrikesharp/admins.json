@@ -115,8 +115,12 @@
     "identity": "76561198325578948",
     "groups": ["#css/vip"]
   },
-  "soppa": {
+  "soppa-old": {
     "identity": "76561198879526659",
+    "groups": ["#css/vip"]
+  },
+  "soppa": {
+    "identity": "76561199153305543",
     "groups": ["#css/vip"]
   },
   "tecno": {
