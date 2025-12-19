@@ -1,5 +1,5 @@
 ar_baggage
-ar_pool_day
+ar_pool_day:3263935964
 ar_shoots
 bkz_evanstep:3355923664
 bkz_fapzor:3428346602
@@ -10,7 +10,6 @@ cs_agency:3339983232
 cs_italy
 cs_office
 de_ancient
-de_ancient_night
 de_anubis
 de_assembly:3071005299
 de_basalt:3329258290
@@ -19,7 +18,7 @@ de_cache:3437809122
 de_dogtown:3414036782
 de_dust2
 de_edin:3328169568
-de_golden
+de_golden:3286163323
 de_grail:3246527710
 de_inferno
 de_jura:3261289969
@@ -28,19 +27,20 @@ de_mills:3152430710
 de_mirage
 de_nuke
 de_overpass
-de_palacio
+de_palacio:3249860053
 de_palais:3257582863
-de_rooftop
+de_rooftop:3536622725
 de_thera:3121217565
 de_train
+de_transit:3542662073
 de_vertigo
 de_whistle:3308613773
 kz_11342:3426289828
 kz_11735:3422462949
+kz_152concretewalls:3609128359
+kz_16pillars:3332836301
 kz_2fast:3360229091
 kz_3rooms:3410851679
-kz_16pillars:3332836301
-kz_152concretewalls:3609128359
 kz_adv_cursedjourney:3451061007
 kz_aether:3462311938
 kz_after_agitation_v2:3466257543
@@ -235,7 +235,6 @@ kz_spire:3352534882
 kz_summercliff2:3353950265
 kz_superstructure:3266838066
 kz_surf_blue:3545317362
-kz_sxb_xbcmzl:3568336119
 kz_sxb2_biewan:3076000218
 kz_sxb2_cxz:3083714192
 kz_sxb2_isbhop:3357361972
@@ -245,6 +244,7 @@ kz_sxb2_onlyslide:3370381464
 kz_sxb2_poi:3107676358
 kz_sxb2_remake:3071551126
 kz_sxb2_slideasy:3617813187
+kz_sxb_xbcmzl:3568336119
 kz_thrombosis:3419129481
 kz_tikkaat:3571708908
 kz_toxic:3584927393
