@@ -291,6 +291,7 @@
    				"workshop/3608094345/kz_wumpus" ""
    				"workshop/3590350906/kz_xc_rocks" ""
    				"workshop/3124558836/kz_xmas2023" ""
+				"workshop/3627515270/kz_xmas2025" ""
    				"workshop/3612290420/kz_zhongbitu" ""
    				"workshop/3479838886/kz_zoomer_fix" ""
    				"workshop/3464453718/skz_bananaysoda_2" ""
