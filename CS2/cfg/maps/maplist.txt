@@ -96,6 +96,7 @@ kz_dethroned:3354073065
 kz_deuxme:3291309096
 kz_devon:3434238689
 kz_divert:3555946660
+kz_dojo:3616333913
 kz_dyd_ladderjumps:3492840997
 kz_dzy_beyond_v2:3357772969
 kz_ehcivec_final:3082213334
@@ -260,10 +261,12 @@ kz_twiivo:3600371852
 kz_unmake:3425790105
 kz_variety:3250132197
 kz_victoria:3086304337
+kz_village:3609005902
 kz_violet:3497005117
 kz_vly_nantu_d:3368783049
 kz_wasabi:3469288337
 kz_weightless:3453892880
+kz_wetlands:3464982214
 kz_why:3603577252
 kz_worlds2026_amethyst:3628804230
 kz_worlds2026_blue:3622279620
