@@ -994,7 +994,6 @@ kz_unmake
 kz_unnamed
 kz_variety_fix
 kz_vci_apprentice
-kz_verv3_gg
 KZ_Verv3_GG
 kz_victoria
 kz_village
@@ -1072,8 +1071,6 @@ vnl_ll_nuke
 vnl_nara
 vnl_oy_lj
 vnl_sewer
-vnl_sewerage
-vnl_sewers
 vnl_simplebrickrooms
 vnl_slidegarden
 vnl_undefined
