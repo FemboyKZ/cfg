@@ -126,7 +126,7 @@ kz_hex:3584437689
 kz_hitech:3411324243
 kz_hoist:3455113833
 kz_hopeless:3468551503
-kz_horrorblock:3582131545
+kz_horror:3582131545
 kz_htraeton:3540504141
 kz_igneous:3102712799
 kz_illusion_gfix:3445782360
@@ -146,6 +146,7 @@ kz_kiwionerous:3430337743
 kz_kiwiqualia:3553951681
 kz_kiwitech:3602610300
 kz_kiwiterror:3531203692
+kz_kiwivision:3435959701
 kz_kukkojapallokidutus:3441683786
 kz_kuutio:3567982777
 kz_kzro_mountainroad:3604165604
@@ -282,3 +283,4 @@ kz_zoomer_fix:3479838886
 skz_bananaysoda_2:3464453718
 vnl_lea:3427313076
 vnl_rc_genesis:3070834871
+
