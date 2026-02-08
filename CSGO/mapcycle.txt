@@ -351,7 +351,6 @@ kz_ehcivec
 kz_eilrahc
 kz_eimeristzurueck
 kz_elysian
-kz_elysian_fix
 kz_emblem
 kz_emblem_bonus
 kz_emptiness
@@ -380,7 +379,7 @@ kz_ext_Bblocks
 kz_fabrik
 kz_failed_fastrun_rt
 kz_farm_v2
-kz_fas2map
+kz_fast2map
 kz_fastcombomap
 kz_fastcombowombo_v2
 kz_fastmap
@@ -512,6 +511,7 @@ kz_kareful
 kz_kat_colorblind
 kz_kays
 kz_kiwibridge
+kz_kiwiconsecration
 kz_kiwiconvolution_finale5
 kz_kiwideath
 kz_kiwiexophoric
@@ -640,6 +640,7 @@ kz_magus
 kz_malignom_short
 kz_mandelbrot
 kz_man_everest_go_fix
+kz_mast
 kz_matilda_np
 kz_maxine
 kz_maya
@@ -709,7 +710,7 @@ kz_opus
 kz_orangejuice_v2
 kz_orbolution_v2
 kz_otakuroom
-kz_overencumbered
+kz_overencumbered_fix
 kz_overgrowth
 kz_overjoyed
 kz_overtuned
@@ -968,7 +969,7 @@ kz_thps4_london
 kz_thrombosis
 kz_timertech
 kz_timescape_zero
-kz_timo
+kz_timo_boll
 kz_tmnf_e05
 kz_tomb_fix
 kz_tomorrow
