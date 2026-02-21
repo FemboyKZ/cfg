@@ -146,7 +146,7 @@ kz_kiwionerous:3633819004
 kz_kiwiqualia:3553951681
 kz_kiwitech:3602610300
 kz_kiwiterror:3531203692
-kz_kiwivision:3435959701
+kz_kiwivision:3639644156
 kz_kukkojapallokidutus:3441683786
 kz_kuutio:3567982777
 kz_kzro_mountainroad:3604165604
