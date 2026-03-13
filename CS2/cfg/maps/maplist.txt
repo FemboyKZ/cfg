@@ -71,6 +71,7 @@ kz_blackness:3458637330
 kz_bluehop_mq:3496529331
 kz_bluekarko:3539143823
 kz_boonies:3591354316
+kz_bored:3672143345
 kz_butterfly:3248925340
 kz_catalyst:3552667502
 kz_cavediving:3568614177
@@ -95,6 +96,7 @@ kz_demonhours:3346247176
 kz_dethroned:3354073065
 kz_deuxme:3291309096
 kz_devon:3434238689
+kz_difficultas_discendi:3683028893
 kz_divert:3555946660
 kz_dojo:3616333913
 kz_dyd_ladderjumps:3492840997
@@ -130,6 +132,7 @@ kz_horror:3582131545
 kz_htraeton:3540504141
 kz_igneous:3102712799
 kz_illusion_gfix:3445782360
+kz_insomnia:3654069326
 kz_interspacial:3540048433
 kz_isuper:3100988369
 kz_itz_updown:3467670838
@@ -137,6 +140,7 @@ kz_jakke:3428669060
 kz_key:3344417199
 kz_kings_ambition:3447277011
 kz_kiwi_hym:3083938271
+kz_kiwiconsecration:3648160400
 kz_kiwideath:3530161696
 kz_kiwiexophoric:3605180671
 kz_kiwiexultation:3551310998
@@ -150,6 +154,7 @@ kz_kiwivision:3639644156
 kz_kukkojapallokidutus:3441683786
 kz_kuutio:3567982777
 kz_kzro_mountainroad:3604165604
+kz_kzro_mountainsein:3656317465
 kz_kzro_syotiles:3329112841
 kz_labour:3164403123
 kz_ladderdespair:3234811937
@@ -223,6 +228,7 @@ kz_sandstone_mq:3498064307
 kz_serfdom:3162361624
 kz_shift:3523939369
 kz_sillycats_final:3602483686
+kz_sillychicken:3679498494
 kz_simplyhard:3078311932
 kz_sketchie:3277779156
 kz_skytower:3276311176
@@ -270,9 +276,9 @@ kz_wasabi:3469288337
 kz_weightless:3453892880
 kz_wetlands:3464982214
 kz_why:3603577252
-kz_worlds2026_amethyst:3628804230
 kz_worlds2026_blue:3622279620
 kz_worlds2026_green:3634909257
+kz_worlds2026_purple:3628804230
 kz_worlds2026_red:3634880409
 kz_worlds2026_yellow:3626536692
 kz_wumpus:3608094345
@@ -284,4 +290,3 @@ kz_zoomer_fix:3479838886
 skz_bananaysoda_2:3464453718
 vnl_lea:3427313076
 vnl_rc_genesis:3070834871
-
