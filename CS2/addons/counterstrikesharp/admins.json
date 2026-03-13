@@ -373,7 +373,7 @@
   },
   "HP5+": {
     "identity": "76561198209388563",
-    "groups": ["#css/contributor"]
+    "groups": ["#css/admin", "#css/contributor"]
   },
   "james": {
     "identity": "76561199011312984",
