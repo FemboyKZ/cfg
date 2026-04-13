@@ -18,7 +18,6 @@
     "RemovePermission": "@css/root"
   },
   "CheckIfMemberIsInGroup": false,
-  "Apikey": "",
   "ServerID": 1,
   "ConfigVersion": 3,
   "ApiKey": ""
