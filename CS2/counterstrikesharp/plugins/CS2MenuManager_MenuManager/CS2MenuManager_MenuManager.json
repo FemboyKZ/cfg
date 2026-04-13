@@ -1,0 +1,17 @@
+{
+  "Commands": [
+    "css_mm",
+    "css_menumanager"
+  ],
+  "ChangeMenuTypeCommands": [
+    "css_menutype",
+    "css_ct"
+  ],
+  "MenuManagerConfig": {
+    "Flag": "@css/root",
+    "ReloadConfigCommands": [
+      "css_mm_reload_config"
+    ]
+  },
+  "ConfigVersion": 1
+}

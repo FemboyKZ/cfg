@@ -1,2 +1,3 @@
-# cfg
+# FKZ CFG
+
 FKZ Config files

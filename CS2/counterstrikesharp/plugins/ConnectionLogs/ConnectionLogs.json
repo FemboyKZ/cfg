@@ -2,7 +2,7 @@
   "ChatPrefix": "{Purple}FKZ {White}| ",
 
   "SendMessageToDiscord": true,
-  "DiscordWebhook": "https://discord.com/api/webhooks/",
+  "DiscordWebhook": "",
 
   "StoreInDatabase": true,
   "DatabaseHost": "",

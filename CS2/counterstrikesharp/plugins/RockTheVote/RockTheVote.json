@@ -1,0 +1,45 @@
+{
+  "ConfigVersion": 25,
+  "Rtv": {
+    "Enabled": true,
+    "MapChangeDelay": 5,
+    "MapsToShow": 6,
+    "ReminderInterval": 60,
+    "MapVoteDuration": 60,
+    "CooldownDuration": 30,
+    "MapStartDelay": 30,
+    "VotePercentage": 51
+  },
+  "MapVote": {
+    "Enabled": true,
+    "EnableRevote": true,
+    "MapsToShow": 6,
+    "MenuType": "ChatMenu",
+    "VoteDuration": 90,
+    "CountdownInterval": 15,
+    "ChatMapChoiceReminder": true,
+    "ChatMapChoiceInterval": 15,
+    "MinWinPercentage": 0,
+    "RunoffEnabled": true
+  },
+  "Nominate": {
+    "Enabled": true,
+    "MenuType": "ChatMenu",
+    "NominateLimit": 1,
+    "Permission": "",
+    "ExternalNominatePermission": "@css/changemap"
+  },
+  "MapChooser": {
+    "Command": "mapmenu,mm",
+    "MenuType": "ChatMenu",
+    "Permission": "@css/changemap"
+  },
+  "General": {
+    "AdminPermission": "@css/root",
+    "IncludeSpectator": true,
+    "EnableMapValidation": true,
+    "SteamApiKey": "",
+    "DiscordWebhook": "",
+    "KzTierMode": "classic"
+  }
+}

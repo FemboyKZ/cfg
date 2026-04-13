@@ -1,6 +1,6 @@
 {
   "UseDatabase": false,
-  "KickIfFailed": false,
+  "KickIfFailed": true,
   "UseAsBlacklist": false,
   "SendMessageOnChatAfterKick": true,
   "Database": {
@@ -19,6 +19,7 @@
   },
   "CheckIfMemberIsInGroup": false,
   "Apikey": "",
-  "ServerID": -1,
-  "ConfigVersion": 3
+  "ServerID": 1,
+  "ConfigVersion": 3,
+  "ApiKey": ""
 }

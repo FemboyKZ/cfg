@@ -1,0 +1,84 @@
+"ServerCfg"
+{
+	// Default mode for players.
+	"defaultMode"						"Vanilla"
+
+	// Default style(s) for players.
+	"defaultStyles"						""
+
+	// How long should a map run for before it must be reloaded in minutes (maximum 24 hours).
+	"defaultTimeLimit"					"600.0"
+
+	// Default language to be used if client does not set a language/language is not supported.
+	"defaultLanguage"					"en"
+
+	// Interval between tips.
+	"tipInterval"						"75"
+
+	// Minimum jumpstat tier for sound effect.
+	"defaultJSSoundMinTier"				"1"
+
+	// Minimum jumpstat tier for showing jumpstats.
+	"defaultJSMinTier"					"1"
+
+	// Minimum jumpstat tier for showing jumpstats in console.
+	"defaultJSMinTierConsole"			"1"
+
+	// Minimum jumpstat tier for broadcasting.
+	"defaultJSBroadcastMinTier"			"5"
+
+	// Minimum jumpstat tier for broadcasting in console.
+	"defaultJSBroadcastMinTierConsole"	"0"
+
+	// Minimum jumpstat tier for broadcasting sound effect.
+	"defaultJSBroadcastSoundMinTier"	"0"
+
+	// Default chat prefix.
+	"chatPrefix"						"{orchid}FKZ {grey}|{default}"
+
+	// Whether we override chat processing or not.
+	"overridePlayerChat"				"true"
+
+	// Maximum amount of manually saved replays allowed per player (minimum 2).
+	"maxManualReplays"					"2"
+
+	// Maximum amount of run replays to keep per category (top N by time + top N by time with 0 teleports, minimum 2).
+	"maxRunReplaysPerGroup"				"2"
+
+	// Maximum amount of jump replays to keep per category (top N by block distance + top N by distance, minimum 2).
+	"maxJumpReplaysPerCategory"			"2"
+
+	// Number of minutes to keep archived replays before deletion (minimum 24 hours, default 48 hours).
+	"archiveRetentionMinutes"			"1440"
+
+	// Default FOV for players.
+	"defaultFOV"						"90"
+
+	// Minimum FOV for players.
+	"minFOV"							"80"
+
+	// Maximum FOV for players.
+	"maxFOV"							"130"
+
+	// Local database configurations.
+	"db"
+	{
+		"driver"	"mysql"
+		"database"	"cs2kz"
+
+		// MySQL connections only, required.
+		"host"		""
+		"user"		""
+		"pass"		""
+
+		// MySQL connections only, optional.
+		//"timeout"			"60"
+		"port"			"3306"
+	}
+
+	"apiUrl"	"https://api.cs2kz.org"
+	"apiKey"	""
+
+	"racingCoordinatorUrl"		""
+	"racingSecret"				""
+}
