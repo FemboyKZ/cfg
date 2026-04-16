@@ -2,12 +2,12 @@
   "ConfigVersion": 25,
   "Rtv": {
     "Enabled": true,
-    "MapChangeDelay": 5,
+    "MapChangeDelay": 3,
     "MapsToShow": 6,
     "ReminderInterval": 60,
     "MapVoteDuration": 60,
-    "CooldownDuration": 30,
-    "MapStartDelay": 30,
+    "CooldownDuration": 0,
+    "MapStartDelay": 0,
     "VotePercentage": 51
   },
   "MapVote": {
