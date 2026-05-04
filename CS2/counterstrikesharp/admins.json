@@ -398,5 +398,13 @@
   "tessi": {
     "identity": "76561199033138073",
     "groups": ["#css/vip"]
+  },
+  "ket": {
+    "identity": "76561198976676413",
+    "groups": ["#css/contributor"]
+  },
+  "smibii": {
+    "identity": "76561199087246609",
+    "groups": ["#css/vip"]
   }
 }
