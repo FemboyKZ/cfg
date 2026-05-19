@@ -406,5 +406,9 @@
   "smibii": {
     "identity": "76561199087246609",
     "groups": ["#css/vip"]
+  },
+  "alco": {
+    "identity": "76561198070472475",
+    "groups": ["#css/vip"]
   }
 }
