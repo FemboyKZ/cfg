@@ -608,7 +608,7 @@ kz_ladderall
 kz_ladderdespair
 kz_ladderhell_fix
 kz_ladderhorror
-kz_laddermayhem
+kz_laddermayhem_fix
 kz_lair
 kz_lastwork_p1
 kz_lastwork_p2
@@ -814,7 +814,7 @@ kz_sanguine
 kz_schizophrenia
 kz_scicret
 kz_scum
-kz_sc_collapse2
+kz_sc_collapsed
 kz_sc_ruins
 kz_sc_surf
 kz_season
