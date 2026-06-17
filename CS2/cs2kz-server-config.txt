@@ -39,17 +39,32 @@
 	// Whether we override chat processing or not.
 	"overridePlayerChat"				"true"
 
-	// Maximum amount of manually saved replays allowed per player (minimum 2).
+	// Whether to mirror CS2KZ log output to a file in addons/cs2kz/logs.
+	"logToFile"							"true"
+
+	// Whether to create a new log file on plugin startup, named with the startup datetime.
+	"logNewFileOnStartup"				"true"
+
+	// Number of days to keep log files before deletion on plugin startup (0 = keep forever, default 30 days).
+	"logRetentionDays"					"30"
+
+	// Whether to record run replays on non-global maps (0 = disable to save disk space, default 1).
+	"recordNonGlobalRuns"				"true"
+
+	// Maximum amount of manually saved replays allowed per player (0 = disable manual saves).
 	"maxManualReplays"					"2"
 
-	// Maximum amount of run replays to keep per category (top N by time + top N by time with 0 teleports, minimum 2).
+	// Maximum amount of run replays to keep per category (top N by time + top N by time with 0 teleports, 0 = keep none).
 	"maxRunReplaysPerGroup"				"2"
 
-	// Maximum amount of jump replays to keep per category (top N by block distance + top N by distance, minimum 2).
+	// Maximum amount of jump replays to keep per category (top N by block distance + top N by distance, 0 = keep none).
 	"maxJumpReplaysPerCategory"			"2"
 
-	// Number of minutes to keep archived replays before deletion (minimum 24 hours, default 48 hours).
+	// Number of minutes to keep archived replays before deletion (0 = delete immediately after upload, default 48 hours).
 	"archiveRetentionMinutes"			"1440"
+
+	// Number of days to keep replays downloaded from the API before deletion (0 = keep forever, default 7 days).
+	"downloadedReplayRetentionDays"		"7"
 
 	// Default FOV for players.
 	"defaultFOV"						"90"
@@ -73,7 +88,7 @@
 
 		// MySQL connections only, optional.
 		//"timeout"			"60"
-		"port"			"3306"
+		"port"				"3306"
 	}
 
 	"apiUrl"	"https://api.cs2kz.org"
