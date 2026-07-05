@@ -7,7 +7,7 @@
 	"defaultStyles"						""
 
 	// How long should a map run for before it must be reloaded in minutes (maximum 24 hours).
-	"defaultTimeLimit"					"600.0"
+	"defaultTimeLimit"					"1440.0"
 
 	// Default language to be used if client does not set a language/language is not supported.
 	"defaultLanguage"					"en"
@@ -37,7 +37,7 @@
 	"chatPrefix"						"{orchid}FKZ {grey}|{default}"
 
 	// Whether we override chat processing or not.
-	"overridePlayerChat"				"true"
+	"overridePlayerChat"				"false"
 
 	// Whether to mirror CS2KZ log output to a file in addons/cs2kz/logs.
 	"logToFile"							"true"
@@ -79,16 +79,16 @@
 	"db"
 	{
 		"driver"	"mysql"
-		"database"	"cs2kz"
+		"database"	""
 
 		// MySQL connections only, required.
-		"host"		""
+		"host"		"127.0.0.1"
 		"user"		""
 		"pass"		""
 
 		// MySQL connections only, optional.
 		//"timeout"			"60"
-		"port"				"3306"
+		"port"				"6033"
 	}
 
 	"apiUrl"	"https://api.cs2kz.org"
