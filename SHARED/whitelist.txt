@@ -1,6 +1,5 @@
 ; Global Team
 STEAM_1:0:16599865 ; chuckles
-STEAM_1:0:102468802 ; gamechaos
 STEAM_1:1:21505111 ; sikari
 STEAM_1:0:79951525 ; ruto
 STEAM_1:0:19181111 ; zealain
