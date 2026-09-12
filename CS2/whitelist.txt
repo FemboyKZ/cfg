@@ -102,6 +102,7 @@ STEAM_1:0:142141935 ; glizzy
 STEAM_1:1:776211524 ; 24 / vingt / energyfps
 STEAM_1:0:41809090 ; bob
 STEAM_1:1:713575192 ; lovelee
+STEAM_1:1:955252839 ; isaac
 
 ; Other
 STEAM_1:1:550685943 ; jas friend
