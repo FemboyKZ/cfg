@@ -1,0 +1,35 @@
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{
+			"gameModes"
+			{
+				"custom"
+				{
+					"maxplayers" "64"
+					"exec"
+					{
+						"exec" "cfg/mg_custom.cfg"
+					}
+					"mapgroupsMP"
+					{
+						"mg_custom" "100"
+					}
+				}
+			}
+		}
+	}
+	"mapgroups"
+	{
+		"mg_custom"
+		{
+			"name" "mg_custom"
+			"maps"
+			{
+				// This will be autofilled by run.sh
+			}
+		}
+	}
+}
