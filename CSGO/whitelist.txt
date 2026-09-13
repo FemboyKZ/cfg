@@ -103,6 +103,7 @@ STEAM_1:1:776211524 ; 24 / vingt / energyfps
 STEAM_1:0:41809090 ; bob
 STEAM_1:1:713575192 ; lovelee
 STEAM_1:1:955252839 ; isaac
+STEAM_1:1:567281800 ; rex
 
 ; Other
 STEAM_1:1:550685943 ; jas friend
