@@ -21,6 +21,7 @@ kz_ego:3750045826
 kz_ehcivec_final:3082213334
 kz_engram:3759997670
 kz_faded:3366047597
+kz_func_detail:3798986356
 kz_fuyu:3694971410
 kz_ghs:3278824777
 kz_greebochki:3534437146
@@ -43,6 +44,7 @@ kz_kzro_mountainsein:3656317465
 kz_labour:3164403123
 kz_lean:3687183209
 kz_leviathan:3374560468
+kz_liminal_geode:3747717986
 kz_lonelyidea:3698268232
 kz_lumen:3429375699
 kz_madhatter:3540061470
@@ -64,17 +66,21 @@ kz_royal_purple:3679728328
 kz_royalcapital:3366541429
 kz_sahara:3718317934
 kz_sanctum:3582314764
+kz_sc_ruins:3767757448
 kz_serfdom:3162361624
 kz_shift:3523939369
 kz_silly_metamodernity:3718800235
 kz_sillychicken:3679498494
 kz_slide_agave:3735580891
+kz_slide_dydanhomon2:3801640043
 kz_summercliff2:3353950265
 kz_sxb2_biewan:3076000218
+kz_sxb2_cxz:3083714192
 kz_sxb2_isbhop:3357361972
 kz_sxb2_misato:3082850001
 kz_sxb2_onlyslide:3370381464
 kz_sxb2_remake:3071551126
+kz_sxb2_slideasy:3617813187
 kz_toofaded:3678967447
 kz_topsecret:3584830777
 kz_why:3603577252

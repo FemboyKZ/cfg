@@ -63,7 +63,6 @@ kz_fastcombomap:3427480612
 kz_forest_retreat:3766903085
 kz_forgotten:3606687424
 kz_foundation:3536739581
-kz_func_detail:3628610350
 kz_futureblock:3499868617
 kz_generic:3070316567
 kz_geometrydash_rofl:3400789439
@@ -178,10 +177,8 @@ kz_spacemario_h:3460960848
 kz_spire:3352534882
 kz_superstructure:3266838066
 kz_surf_blue:3545317362
-kz_sxb2_cxz:3083714192
 kz_sxb2_makabaka:3240801191
 kz_sxb2_poi:3107676358
-kz_sxb2_slideasy:3617813187
 kz_sxb2_xbcmzl:3729339057
 kz_thrombosis:3419129481
 kz_tikkaat:3571708908
