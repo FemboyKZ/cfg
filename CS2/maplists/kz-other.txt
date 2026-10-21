@@ -21,7 +21,7 @@ kz_ambition:3231632688
 kz_angina_final:3468709564
 kz_antharas:3338102767
 kz_apasanka:3346109633
-kz_asteroid_beach:3760078813
+kz_asteroid_beach:3771237485
 kz_banjo:3558360812
 kz_beginnerblock:3445887668
 kz_bhop_koki_niwa:3506881159
