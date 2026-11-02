@@ -1,7 +1,7 @@
 "ServerCfg"
 {
 	// Default mode for players.
-	"defaultMode"						"Vanilla"
+	"defaultMode"						"Classic"
 
 	// Default style(s) for players.
 	"defaultStyles"						""

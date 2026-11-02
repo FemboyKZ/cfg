@@ -22,6 +22,7 @@ kz_angina_final:3468709564
 kz_antharas:3338102767
 kz_apasanka:3346109633
 kz_asteroid_beach:3771237485
+kz_aurajoki:3829464841
 kz_banjo:3558360812
 kz_beginnerblock:3445887668
 kz_bhop_koki_niwa:3506881159
@@ -30,6 +31,7 @@ kz_bhop_lucid:3450065613
 kz_bhop_nothing_go:3510928293
 kz_big4:3767113515
 kz_bigcastle:3428921927
+kz_blackforest:3812792491
 kz_blackness:3458637330
 kz_bluehop_mq:3496529331
 kz_boonies:3591354316
@@ -50,6 +52,7 @@ kz_communityjump3:3202427394
 kz_concord:3287874815
 kz_concrete:3095025786
 kz_cruise:3755483837
+kz_cuscocide:3830347988
 kz_custos:3497876903
 kz_dam:3280262338
 kz_dejavu:3448441395
@@ -64,6 +67,7 @@ kz_forest_retreat:3766903085
 kz_forgotten:3606687424
 kz_foundation:3536739581
 kz_futureblock:3499868617
+kz_gasworkspark:3830039059
 kz_generic:3070316567
 kz_geometrydash_rofl:3400789439
 kz_ggsh:3072744536
@@ -100,6 +104,7 @@ kz_kzro_mountainroad:3604165604
 kz_kzro_syotiles:3329112841
 kz_ladderdespair:3234811937
 kz_ladderhell:3236545332
+kz_lara:3829744778
 kz_leto_v2:3070830826
 kz_lionheart:3352277813
 kz_lmn:3355230567
@@ -122,6 +127,7 @@ kz_moon_fix:3462474928
 kz_moonlight:3287653784
 kz_moorerutan:3348711619
 kz_mz:3468891853
+kz_nextmap:3812792491
 kz_nightcastle:3461115770
 kz_nomibo:3077122656
 kz_notmute:3159507211
@@ -175,6 +181,7 @@ kz_sp1_bloodyljs_v2:3604675670
 kz_sp1_strafechampion:3603657658
 kz_spacemario_h:3460960848
 kz_spire:3352534882
+kz_sunshine:3830064858
 kz_superstructure:3266838066
 kz_surf_blue:3545317362
 kz_sxb2_makabaka:3240801191
