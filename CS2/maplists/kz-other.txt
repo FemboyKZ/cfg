@@ -21,7 +21,6 @@ kz_ambition:3231632688
 kz_angina_final:3468709564
 kz_antharas:3338102767
 kz_apasanka:3346109633
-kz_asteroid_beach:3771237485
 kz_aurajoki:3829464841
 kz_banjo:3558360812
 kz_beginnerblock:3445887668
@@ -132,7 +131,6 @@ kz_nightcastle:3461115770
 kz_nomibo:3077122656
 kz_notmute:3159507211
 kz_obsidian:3332796414
-kz_okaychamp:3430093272
 kz_old_depression:3595493972
 kz_oloramasa:3421622610
 kz_onlime:3333177952
@@ -186,7 +184,6 @@ kz_superstructure:3266838066
 kz_surf_blue:3545317362
 kz_sxb2_makabaka:3240801191
 kz_sxb2_poi:3107676358
-kz_sxb2_xbcmzl:3729339057
 kz_thrombosis:3419129481
 kz_tikkaat:3571708908
 kz_toxic:3584927393
